@@ -20,7 +20,7 @@ I love learning new technologies, building projects and collaborating on a team.
 
 ⚡ When I'm not fixing smiles in my day job, I'm documenting my learning journey in tech [here](https://ziimm.medium.com/). I'm somewhat of a modern polymath 🤓
 
-👯I'm looking to collaborate on projects in Python and I'm interested in volunteering opportunities in tech communities.    
+👯 I'm looking to collaborate on projects in Python and I'm interested in volunteering opportunities in tech.         
 
 ☁️ I'm a Google certified Associate Cloud Engineer. Ask me about the Google Cloud Platform.           
 
