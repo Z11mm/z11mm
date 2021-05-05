@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 -->
 I love learning new technologies, building projects and collaborating on a team.
 
-- :zap: When I'm not fixing smiles in my day job, I'm documenting my learning journey in tech [here](https://ziimm.medium.com/). I'm somewhat of a modern polymath :grinning:
-- :dancers: I'm looking to collaborate on projects in Python and I'm interested in volunteering opportunities in tech communities.
-- :cloud: I'm a Google certified Associate Cloud Engineer. Ask me about the Google Cloud Platform.
-- How to reach me: [@MasterZiii](https://twitter.com/MasterZiii)
+:zap: When I'm not fixing smiles in my day job, I'm documenting my learning journey in tech [here](https://ziimm.medium.com/). I'm somewhat of a modern polymath :grinning:
+:dancers: I'm looking to collaborate on projects in Python and I'm interested in volunteering opportunities in tech communities.
+:cloud: I'm a Google certified Associate Cloud Engineer. Ask me about the Google Cloud Platform.
+How to reach me: [@MasterZiii](https://twitter.com/MasterZiii)
