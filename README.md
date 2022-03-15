@@ -22,7 +22,7 @@ I love learning new technologies, building projects and collaborating on a team.
 
 👯 I'm looking to collaborate on projects in Python and I'm interested in volunteering opportunities in tech.         
 
-☁️ I'm a Google certified Associate Cloud Engineer. Ask me about Google Cloud.       
+☁️ I'm a Google certified Professional Cloud Architect. Ask me about Google Cloud.       
 
 ✉️ How to reach me: [@MasterZiii](https://twitter.com/MasterZiii)
 
