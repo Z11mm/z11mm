@@ -24,5 +24,5 @@ I love learning new technologies, building projects and collaborating on a team.
 
 ☁️ I'm a Google certified Professional Cloud Architect. Ask me about Google Cloud.       
 
-✉️ How to reach me: [@MasterZiii](https://twitter.com/MasterZiii)
+✉️ How to reach me: zimobiechina@gmail.com
 
